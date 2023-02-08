@@ -1,0 +1,75 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+   background: url('../Assets/img/login.jpg') ;
+   background-size: cover;
+}
+.Login-form{
+    width: max-content;
+    top:50%;
+    left:50%;
+    position: absolute;
+    transform:translate(-50%,-50%);
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.Login-form h2{
+    text-align:center ;
+    margin-bottom: 10%
+    
+}
+
+.Login-form p{
+    margin-top:10px;
+    margin-bottom: 3px;
+    font-size: 22px;
+}
+.Login-form input{
+    font-size:18px;
+    width:100%;
+    padding:5px 0px;
+}
+.Login-form button{
+    margin-top: 30px;
+    align-items: center;
+    font-size: 20px;
+    padding: 6px 80px;
+    margin-left:22%;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+    color: white;
+    text-align: center;
+    justify-content: center;
+  }
+  .text-footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 1rem;
+    margin-bottom:1rem;
+  }
+  .bg-danger{
+    background-color: #0c0c0c!important;
+  }
+  .nav-link{
+    color:white;
+    font-family: cursive;
+    font-size: larger;
+  }
+  .heading{
+    font-size: x-large;
+    font-family:cursive;
+    text-align: center;
+  }
+  
+.questionnaire{
+    color:white;
+}
+  
