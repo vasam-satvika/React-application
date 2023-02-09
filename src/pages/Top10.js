@@ -1,5 +1,6 @@
 import React from 'react';
-import Sampledata from "../sample.json"
+import Sampledata from "../sample.json";
+import './styles.css';
 class Top10 extends React.Component{
     render(){
         
