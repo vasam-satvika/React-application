@@ -1,5 +1,6 @@
 import React from 'react';
-import {Link} from 'react-router-dom'
+import {Link} from 'react-router-dom';
+import './styles.css';
 class   Managementreg extends React.Component{
     render(){
         
