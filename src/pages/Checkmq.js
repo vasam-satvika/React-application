@@ -1,4 +1,5 @@
 import React from 'react';
+import './styles.css'
 class Checkmq extends React.Component{
     render(){
         
